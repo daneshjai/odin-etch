@@ -1,8 +1,8 @@
 # odin-etch
 
-## HTML
+# HTML
 
-## CSS
+# CSS
 
 `aspect-ratio: 1/1` to keep height and width equal.
 
