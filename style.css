@@ -1,11 +1,11 @@
 .gridItem {
     background-color: grey;
-    /*width: 16px;
-    height: 16px;*/
+    width: 16px;
+    height: 16px;
 }
 
 #container {
-   /* width: 256px;*/
+    width: 256px;
     aspect-ratio: 1/1;
     display: flex;
     flex-wrap: wrap;
