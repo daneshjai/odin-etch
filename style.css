@@ -1,15 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 .gridItem {
     background-color: grey;
-    width: 16px;
-    height: 16px;
 }
 
 #container {
-    width: 256px;
+    width: 600px;
     aspect-ratio: 1/1;
     display: flex;
+    margin: 0 auto;
     flex-wrap: wrap;
 
+}
 
 
+#btnDiv {
+    display: flex;
+}
+
+button {
+    background-color: skyblue;
+    color: rgb(57, 56, 56);
+    margin: 0 auto;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 18px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: "Press Start 2P", system-ui, monospace;
+    border-color: slategray;
 }
