@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 .gridItem {
-    background-color: grey;
+    background-color: lightgray;
+  
 }
+
 
 #container {
     width: 600px;
-    aspect-ratio: 1/1;
+    height: 600px;
     display: flex;
     margin: 0 auto;
     flex-wrap: wrap;
+    flex-direction: column;
 
 }
 
