@@ -24,4 +24,4 @@ Initially started with a convoluted math approach by trying to find the width an
 
 >a new grid should be generated in the same total space as before 
 
-I thought the square had to be just N items total in order to take up the same space, where area was equal to pixel in my thinking. The "aha" or "oh duh" moment was a 2x2 grid which only produced 2 blocks in my initial code where it needed to have 2 blocks on each side. The reach for the fancy math can make on feel instantly smart and dumb at the same time.
+I thought the square had to be just N items total in order to take up the same space, where area was equal to pixel in my thinking. The "aha" or "oh duh" moment was a 2x2 grid which only produced 2 blocks in my initial code where it needed to have 2 blocks on each side. The reach for the fancy math can make one feel instantly smart and dumb at the same time.
